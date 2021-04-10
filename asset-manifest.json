@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://omarkarame21.github.io/csb-sd4z3/static/css/main.885a6bad.chunk.css",
+    "main.js": "https://omarkarame21.github.io/csb-sd4z3/static/js/main.15a1be8c.chunk.js",
+    "main.js.map": "https://omarkarame21.github.io/csb-sd4z3/static/js/main.15a1be8c.chunk.js.map",
+    "runtime-main.js": "https://omarkarame21.github.io/csb-sd4z3/static/js/runtime-main.f5a76e86.js",
+    "runtime-main.js.map": "https://omarkarame21.github.io/csb-sd4z3/static/js/runtime-main.f5a76e86.js.map",
+    "static/js/2.1ed2fc1f.chunk.js": "https://omarkarame21.github.io/csb-sd4z3/static/js/2.1ed2fc1f.chunk.js",
+    "static/js/2.1ed2fc1f.chunk.js.map": "https://omarkarame21.github.io/csb-sd4z3/static/js/2.1ed2fc1f.chunk.js.map",
+    "index.html": "https://omarkarame21.github.io/csb-sd4z3/index.html",
+    "static/css/main.885a6bad.chunk.css.map": "https://omarkarame21.github.io/csb-sd4z3/static/css/main.885a6bad.chunk.css.map",
+    "static/js/2.1ed2fc1f.chunk.js.LICENSE.txt": "https://omarkarame21.github.io/csb-sd4z3/static/js/2.1ed2fc1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5a76e86.js",
+    "static/js/2.1ed2fc1f.chunk.js",
+    "static/css/main.885a6bad.chunk.css",
+    "static/js/main.15a1be8c.chunk.js"
+  ]
+}
